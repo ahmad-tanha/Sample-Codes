@@ -1,3 +1,3 @@
-LICENCE
+#Licence
 
-All of the codes existing on this page are free to use on mentioning the original author.
+All files are provided under the terms of the Apache License, Version 2.0, see the included file "Apache License Version 2.0" for details.
