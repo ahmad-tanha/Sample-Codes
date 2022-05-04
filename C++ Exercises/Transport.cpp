@@ -6,7 +6,6 @@ calculate and output how many empty seats the last bus will have. */
 using namespace std;
 
 int main() {
-    //your code goes here
     int n;
     cin >> n;
     while (n>50){

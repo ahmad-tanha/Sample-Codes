@@ -23,10 +23,8 @@ int main() {
     for (int i = 0; i < 5; i++) {
         cin >> ages[i];
     }
-    //your code goes here
     int min =  findSmallestElement(ages, 5);
     //cout << min;
     cout << 50*double(100-min)/double(100);
-    
     return 0;
 }

@@ -17,7 +17,6 @@ int reverse(int n) {
 }
 
 bool isPalindrome(int x) {
-    //complete the function
     if (reverse(x)==x) {
         return true;
     }    
@@ -29,7 +28,6 @@ bool isPalindrome(int x) {
 int main() {
     int n;
     cin >>n;
-    
     if(isPalindrome(n)) {
         cout <<n<< " is a palindrome";
     }
