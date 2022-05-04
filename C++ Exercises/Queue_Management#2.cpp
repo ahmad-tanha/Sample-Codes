@@ -1,4 +1,8 @@
-/* Add a new functionality to the previous code: adding two queues together. The result should be a new queue, where the elements of the first queue come first, followed by the second queue's elements. Given the Queue class, overload the + operator, so that the code in main works and successfully adds two queues. */
+/* Add a new functionality to the previous code: 
+adding two queues together. The result should be a new queue,
+where the elements of the first queue come first, 
+followed by the second queue's elements. Given the Queue class,
+overload the + operator, so that the code in main works and successfully adds two queues. */
 
 
 #include <iostream>
@@ -11,7 +15,7 @@ class Queue {
 	
 	public:
 		//Queue() { } //error!
-		Queue(int sum) : var(sum) { };
+		Queue(int u) : var(u) { };
 		//Queue operator+(Queue &obj); //error!
  		Queue() { 
 			size = 0;

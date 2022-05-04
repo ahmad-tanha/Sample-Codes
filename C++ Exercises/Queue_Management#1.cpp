@@ -1,6 +1,7 @@
 /* Create the class to hold the queue data, which are customer IDs (integers).
 Make a Queue class, which has a size attribute, and an array, to hold the data of the queue.
-The class has a remove() method to remove the front item of the queue (or shift to left in the queue), a print() method to output the queue.
+The class has a remove() method to remove the front item of the queue (or shift to left in the queue),
+a print() method to output the queue.
 Then create an add() method for the Queue class, that will take an item and add it to the end of the queue.
 The code needs to be fully working, so that the Queue declaration and manipulation code in main() works. */
 
