@@ -12,7 +12,6 @@ int main() {
         if (i%5==0){
             cout<<"Beep"<<"\n";
         }
-
     }
     return 0;
 }
