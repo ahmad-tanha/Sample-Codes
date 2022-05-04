@@ -1,4 +1,4 @@
-/* A Palindromic number is a number (such as 626) that remains the same when its digits are reversed.
+/* A palindromic number is a number (such as 626) that remains the same when its digits are reversed.
 The "isPalindrome" function returns true if a given number is a palindrome, and false, if it is not. */
 
 #include <iostream>
